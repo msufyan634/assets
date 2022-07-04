@@ -1,0 +1,11 @@
+{
+    "name": "EDinar2 ",
+    "website": "https://Edrcoin.app",
+    "description": "EDR2 Token Use for .",
+    "explorer": "https://www.bscscan.com/address/0xF6F16c4FD64C2f56d41127DCE724169F495a9DF4",
+    "type": "BEP20",
+    "symbol": "EDR2",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF6F16c4FD64C2f56d41127DCE724169F495a9DF4"
+}
